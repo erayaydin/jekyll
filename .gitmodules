@@ -1,0 +1,4 @@
+[submodule "Projects/erayaydin.github.io"]
+	path = Projects/erayaydin.github.io
+	url = git@github.com:erayaydin/erayaydin.github.io
+	branch = master
